@@ -1,6 +1,3 @@
-import * as p from 'https://cdn.jsdelivr.net/npm/@mitranim/js@0.1.25/prax.mjs'
-const {E} = p.Ren.native()
-
 document.addEventListener("DOMContentLoaded", function() {
     const slidesWrap = document.querySelector('.slides-wrap')
     const slides = document.querySelectorAll('.slide-players')
